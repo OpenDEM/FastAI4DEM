@@ -9,7 +9,7 @@ FastAI templates for Super-resolution of Digital Elevation Models.
 **These are only templates, no better results could be achieved than with a simple bicubic upsampling.**
 If you achieve any proper results please get in contact.
 
-Have a look at [https://opendem.info/superResolution.html](https://opendem.info/superResolution.html) for detailed information. 
+Have a look at [https://opendem.info/superResolution.html](https://opendem.info/superResolution.html) for detailed background information. 
 
 Based on the implementations of benymd [GitHub](https://github.com/benymd/super_resolution).
 
