@@ -1,7 +1,8 @@
 # FastAI4DEM
 FastAI templates for Super-resolution of Digital Elevation Models.
 
-This is only a template, no better results could be achieved than with a simple bicubic upsampling.
+These are only templates, no better results could be achieved than with a simple bicubic upsampling.
+If you achieve any proper results please get in contact.
 
 Have a look at [https://opendem.info/superResolution.html](https://opendem.info/superResolution.html) for detailed information. 
 
