@@ -3,7 +3,6 @@ FastAI templates for Super-resolution of Digital Elevation Models.
 
 + SRCNN
 + SRCNN with ResBlock
-+ VDSR (todo)
 + EPSCN (todo)
 
 **These are only templates, no better results could be achieved than with a simple bicubic upsampling.**
